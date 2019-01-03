@@ -3,7 +3,7 @@ MAINTAINER istef.liu@gmail.com
 
 #forked from https://github.com/clangcn/frp-docker/blob/master/frps-docker/Dockerfile
 
-ENV frps_version=0.21.0 \
+ENV frps_version=0.22.0 \
     frps_DIR=/usr/local/frps
 
 RUN set -ex && \
